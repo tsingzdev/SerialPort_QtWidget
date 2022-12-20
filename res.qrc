@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/help.ico</file>
+        <file>img/serialportlogo.png</file>
+    </qresource>
+</RCC>
